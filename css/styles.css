@@ -25,10 +25,12 @@ img {
   height: 200px;
   width: 200px;
   transition: 1s;
+  cursor: zoom-in;
 }
 
 .big {
   height: 350px;
   width: 350px;
   transition: 1s;
+  cursor: zoom-out;
 }
